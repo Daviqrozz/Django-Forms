@@ -1,2 +1,2 @@
 # Django-Forms
-Estudando a ferramenta de formularios integrada do django
+Projeto que utiliza a ferramenta de formularios integrada do django
